@@ -1,8 +1,13 @@
 # cateye
 
-> A Vue.js project
+> A Vue.js projec
 
+还在开发中，有空就写写，该项目完全是仿照别人的，第一个vue练手项目，
+
+预览地址 ： https://lqqjohnny.github.io/movieInfo_vue/dist/index.html#/hello
 ## Build Setup
+
+
 
 ``` bash
 # install dependencies
